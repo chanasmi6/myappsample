@@ -1,2 +1,3 @@
 This is my first app
-git acciunt
+git account
+assuuuuu
